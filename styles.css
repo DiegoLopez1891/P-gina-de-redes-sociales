@@ -1,0 +1,49 @@
+*{margin:0; padding: 0; font-family: sans-serif;}
+
+body {
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(Imagenes/montaña2.JPG);
+    background-size: cover;
+}
+
+.style {
+    width: 100%;
+    margin-top: 150px;
+}
+
+.style h1{
+    font-size: 80px;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+.icons-name{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    margin-top: 50px;
+}
+
+ul{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+ul li{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background: white;
+    border-radius: 100%;
+    margin: 0px 10px;
+    font-size: 50px;
+    line-height: 100px;
+    display: inline-block;
+
+}
+
+.fa-twitter{color:#0077B5}
+.fa-youtube{color:#cd201f}
+.fa-instagram-square{color:#DD2A7B}
+.fa-twitch{color:#8C05E6}
